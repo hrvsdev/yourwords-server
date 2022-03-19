@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "adminjs": "^5.7.3",
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.3",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.2.5",
+    "random-paragraph": "^1.0.4",
+    "random-words": "^1.1.2"
+  },
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
